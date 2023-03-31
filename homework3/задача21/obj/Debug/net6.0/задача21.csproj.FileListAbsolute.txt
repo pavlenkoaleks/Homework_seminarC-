@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\учеба\домашкиС#\homework3\задача21\obj\Debug\net6.0\задача21.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\учеба\домашкиС#\homework3\задача21\obj\Debug\net6.0\задача21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\учеба\домашкиС#\homework3\задача21\obj\Debug\net6.0\задача21.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\учеба\домашкиС#\homework3\задача21\obj\Debug\net6.0\задача21.AssemblyInfo.cs
+C:\Users\Asus\Desktop\учеба\домашкиС#\homework3\задача21\obj\Debug\net6.0\задача21.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\учеба\домашкиС#\homework3\задача21\bin\Debug\net6.0\задача21.exe
+C:\Users\Asus\Desktop\учеба\домашкиС#\homework3\задача21\bin\Debug\net6.0\задача21.deps.json
+C:\Users\Asus\Desktop\учеба\домашкиС#\homework3\задача21\bin\Debug\net6.0\задача21.runtimeconfig.json
+C:\Users\Asus\Desktop\учеба\домашкиС#\homework3\задача21\bin\Debug\net6.0\задача21.dll
+C:\Users\Asus\Desktop\учеба\домашкиС#\homework3\задача21\bin\Debug\net6.0\задача21.pdb
+C:\Users\Asus\Desktop\учеба\домашкиС#\homework3\задача21\obj\Debug\net6.0\задача21.dll
+C:\Users\Asus\Desktop\учеба\домашкиС#\homework3\задача21\obj\Debug\net6.0\refint\задача21.dll
+C:\Users\Asus\Desktop\учеба\домашкиС#\homework3\задача21\obj\Debug\net6.0\задача21.pdb
+C:\Users\Asus\Desktop\учеба\домашкиС#\homework3\задача21\obj\Debug\net6.0\задача21.genruntimeconfig.cache
+C:\Users\Asus\Desktop\учеба\домашкиС#\homework3\задача21\obj\Debug\net6.0\ref\задача21.dll
