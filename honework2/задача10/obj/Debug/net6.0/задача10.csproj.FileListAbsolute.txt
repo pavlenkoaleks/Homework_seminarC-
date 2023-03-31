@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\учеба\домашкиС#\honework2\задача10\bin\Debug\net6.0\задача10.exe
+C:\Users\Asus\Desktop\учеба\домашкиС#\honework2\задача10\bin\Debug\net6.0\задача10.deps.json
+C:\Users\Asus\Desktop\учеба\домашкиС#\honework2\задача10\bin\Debug\net6.0\задача10.runtimeconfig.json
+C:\Users\Asus\Desktop\учеба\домашкиС#\honework2\задача10\bin\Debug\net6.0\задача10.dll
+C:\Users\Asus\Desktop\учеба\домашкиС#\honework2\задача10\bin\Debug\net6.0\задача10.pdb
+C:\Users\Asus\Desktop\учеба\домашкиС#\honework2\задача10\obj\Debug\net6.0\задача10.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\учеба\домашкиС#\honework2\задача10\obj\Debug\net6.0\задача10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\учеба\домашкиС#\honework2\задача10\obj\Debug\net6.0\задача10.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\учеба\домашкиС#\honework2\задача10\obj\Debug\net6.0\задача10.AssemblyInfo.cs
+C:\Users\Asus\Desktop\учеба\домашкиС#\honework2\задача10\obj\Debug\net6.0\задача10.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\учеба\домашкиС#\honework2\задача10\obj\Debug\net6.0\задача10.dll
+C:\Users\Asus\Desktop\учеба\домашкиС#\honework2\задача10\obj\Debug\net6.0\refint\задача10.dll
+C:\Users\Asus\Desktop\учеба\домашкиС#\honework2\задача10\obj\Debug\net6.0\задача10.pdb
+C:\Users\Asus\Desktop\учеба\домашкиС#\honework2\задача10\obj\Debug\net6.0\задача10.genruntimeconfig.cache
+C:\Users\Asus\Desktop\учеба\домашкиС#\honework2\задача10\obj\Debug\net6.0\ref\задача10.dll
